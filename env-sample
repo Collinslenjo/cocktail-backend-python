@@ -1,0 +1,8 @@
+SECRET_KEY='(g_)52u-b)yi!u*t6(@((g^k@hiuazu&o&poio@q9+#l65)9*w'
+DEBUG=True
+
+DATABASE_HOST='localhost'
+DATABASE_USER='root'
+DATABASE_PASSWORD='password'
+DATABASE_NAME='cocktail'
+DATABASE_PORT='5432'
